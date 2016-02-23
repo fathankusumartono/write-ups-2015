@@ -8,14 +8,15 @@
 
 ## Completed write-ups
 
-* [crypto/rsalot](crypto/rsalot)
 * [crypto/rand](crypto/rand)
-* [exploit/concealed](exploit/concealed)
+* [crypto/rsalot](crypto/rsalot)
 * [exploit/closed](exploit/closed)
+* [exploit/concealed](exploit/concealed)
+* [exploit/forgot](exploit/forgot)
 * [exploit/noname](exploit/noname)
-* [misc/qr](misc/qr)
 * [forensics/tim](forensics/tim)
 * [misc/lhc](misc/lhc)
+* [misc/qr](misc/qr)
 
 ## External write-ups only
 
@@ -23,9 +24,10 @@
 * [binary/team](binary/team)
 * [crypto/bbad](crypto/bbad)
 * [crypto/rsanne](crypto/rsanne)
-* [exploit/forgot](exploit/forgot)
 * [misc/rapidfire](misc/rapidfire)
 * [web/follow](web/follow)
-* [web/medusa](web/medusa)
-* [web/judge](web/judge)
 * [web/jshunt](web/jshunt)
+* [web/judge](web/judge)
+* [web/medusa](web/medusa)
+
+## Missing write-ups

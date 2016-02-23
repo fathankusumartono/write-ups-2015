@@ -1,13 +1,13 @@
 # DEF CON Qualifier CTF write-ups
 
 * <https://2015.legitbs.net/>
-* [Scoreboard](https://2015.legitbs.net/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://legitbs.net/statdump_2015/scoreboard.html) or [local alternative](scoreboard)
 
 ## Completed write-ups
 
 * [babys-first/babyecho](babys-first/babyecho)
-* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 * [pwnable/fuckup](pwnable/fuckup)
+* [web/waiting-for-your-touch](web/waiting-for-your-touch)
 
 ## External write-ups only
 
@@ -22,6 +22,7 @@
 * [pwnable/heapsoffun](pwnable/heapsoffun)
 * [pwnable/int3rupted](pwnable/int3rupted)
 * [pwnable/tensixtyseven](pwnable/tensixtyseven)
+* [pwnable/thing2](pwnable/thing2)
 * [pwnable/twentyfiveseventy](pwnable/twentyfiveseventy)
 * [pwnable/wibbly-wobbly-timey-wimey](pwnable/wibbly-wobbly-timey-wimey)
 * [reverse/access-control](reverse/access-control)
@@ -33,5 +34,4 @@
 ## Missing write-ups
 
 * [pwnable/secrf](pwnable/secrf)
-* [pwnable/thing2](pwnable/thing2)
 * [reverse/scrambler](reverse/scrambler)

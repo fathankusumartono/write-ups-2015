@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [DerBaer0](https://github.com/DerBaer0)
+
 We are given a long integer
 > 2712733801194381163880124319146586498182192151917719248224681364019142438188097307292437016388011943193619457377217328473027324319178428
 
@@ -79,4 +81,5 @@ With a different flag, the number of possibilities can maybe grow even more, and
 
 * <http://capturetheswag.blogspot.com.au/2015/05/asis-ctf-2015-simplealgorithm-100-point.html>
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/ASISCTF/crypto/simplealgorithm>
+* <https://b01lers.net/challenges/ASIS%202015/Simple%20Algorithm/50/>
 * [Indonesian](https://github.com/rentjongteam/write-ups-2015/tree/master/asis-quals-2015/simple-algorithm)

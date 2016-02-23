@@ -13,6 +13,8 @@
 
 ## Write-up
 
+by [HoLyVieR](https://github.com/HoLyVieR)
+
 ### Explanation
 
 To do this challenge, we had to understand how HMAC works. HMAC is constructed using the following formula and the hash function used in the challenge was `md5`:
@@ -50,3 +52,4 @@ DrgnS{MyHardWorkByTheseWordsGuardedPleaseDontStealMasterCryptoProgrammer}
 ## Other write-ups and resources
 
 * <https://github.com/smokeleeteveryday/CTF_WRITEUPS/tree/master/2015/CONFIDENCE_TEASER/crypto/machacking>
+* <https://b01lers.net/challenges/CONFidence%20Teaser%202015/mac%20hacking/49/>

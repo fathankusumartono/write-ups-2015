@@ -9,6 +9,8 @@
 
 ## Write-up
 
+by [0xddaa](https://github.com/0xddaa)
+
 The problem is a game about transcation of 0days.  
 We can enter the password and cheat the game, but it's useless.   
 The game print the message:  
@@ -96,6 +98,7 @@ t.interact()
 
 ## Other write-ups and resources
 
-* <http://ddaa.logdown.com/posts/256270-boston-key-party-ctf-2015-275-harvard-square>
-* <https://rzhou.org/~ricky/bkpctf2015/harvard_square/>
+* <http://ddaa.logdown.com/posts/256270-boston-key-party-ctf-2015-275-harvard-square> or <http://ddaa.tw/bktctf_pwn_275_harvard_square.html>
 * [Chinese](http://blog.orange.tw/2015/03/boston-key-parcty-ctf-2015-harvard.html)
+* [Chinese](http://www.secpulse.com/archives/5013.html)
+* <https://rzhou.org/~ricky/bkpctf2015/harvard_square/>

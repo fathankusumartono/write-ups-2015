@@ -6,18 +6,19 @@
 
 ## Completed write-ups
 
-* none yet
+* [survey/survey](survey/survey)
 
 ## External write-ups only
 
 * [crypto/backdoor](crypto/backdoor)
+* [crypto/redundant-code](crypto/redundant-code)
 * [crypto/warmup](crypto/warmup)
 * [crypto/weak-enc](crypto/weak-enc)
-* [crypto/redundant-code](crypto/redundant-code)
 * [exploit/drunk](exploit/drunk)
 * [exploit/pattern](exploit/pattern)
 * [exploit/qoobee](exploit/qoobee)
 * [exploit/zhongguancun](exploit/zhongguancun)
+* [misc/broken-oj](misc/broken-oj)
 * [programming/experiment](programming/experiment)
 * [reverse/camlmaze](reverse/camlmaze)
 * [reverse/freak](reverse/freak)
@@ -29,5 +30,4 @@
 
 ## Missing write-ups
 
-* [misc/broken-oj](misc/broken-oj)
 * [reverse/crappy_oj](reverse/crappy_oj)

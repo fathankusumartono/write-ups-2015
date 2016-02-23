@@ -1,17 +1,17 @@
 # UIU CTF write-ups
 
 * <https://ctf.acm.illinois.edu/about>
-* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](TODOLOCAL)
+* [Scoreboard](https://ctf.acm.illinois.edu/scoreboard) or [local alternative](scoreboard)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 
 * [network/ovaltine](network/ovaltine)
 * [network/sniffthis](network/sniffthis)
+* [pwn/unoriginal](pwn/unoriginal)
 
 ## External write-ups only
 
-* [pwn/unoriginal](pwn/unoriginal)
 * [stego/qr](stego/qr)
 * [web/hype](web/hype)
 

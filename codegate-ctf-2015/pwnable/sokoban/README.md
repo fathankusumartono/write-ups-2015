@@ -15,6 +15,8 @@
 
 ## Write-up
 
+by [0xddaa](https://github.com/0xddaa)
+
 The problem is a game that called **sokoban**. lol  
 After we pass the 0 ~ 5 levels, we will enter a menu and choose the game mode.  
 
@@ -91,5 +93,6 @@ flag: `WH0n in OOme, ZZ as 12e RolanS`
 
 ## Other write-ups and resources
 
+* <https://github.com/0xddaa/blog/blob/master/content/2015/codegate-pwn-1000-sokoban.md>
+* [Chinese](http://winesap.logdown.com/posts/257682-codegate-ctf-preliminary-2015)
 * <http://pastebin.com/CZR6H3VY>
-* <http://winesap.logdown.com/posts/257682-codegate-ctf-preliminary-2015> (chinese)
